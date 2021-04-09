@@ -1,2 +1,2 @@
-# Programmin-paradigms
+# Programming-paradigms
 CS 107 A
