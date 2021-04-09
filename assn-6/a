@@ -1,0 +1,81 @@
+echo "1 worker: "
+./bankdriver -t1 -w1  | grep Bank
+./bankdriver -t2 -w1  | grep Bank
+./bankdriver -t3 -w1  | grep Bank
+./bankdriver -t4 -w1  | grep Bank
+./bankdriver -t5 -w1  | grep Bank
+./bankdriver -t6 -w1  | grep Bank
+./bankdriver -t7 -w1  | grep Bank
+echo "2 workers: "
+./bankdriver -t1 -w2  | grep Bank
+./bankdriver -t2 -w2  | grep Bank
+./bankdriver -t3 -w2  | grep Bank
+./bankdriver -t4 -w2  | grep Bank
+./bankdriver -t5 -w2  | grep Bank
+./bankdriver -t6 -w2  | grep Bank
+./bankdriver -t7 -w2  | grep Bank
+echo "4 workers: "
+./bankdriver -t1 -w4  | grep Bank
+./bankdriver -t2 -w4  | grep Bank
+./bankdriver -t3 -w4  | grep Bank
+./bankdriver -t4 -w4  | grep Bank
+./bankdriver -t5 -w4  | grep Bank
+./bankdriver -t6 -w4  | grep Bank
+./bankdriver -t7 -w4  | grep Bank
+echo "8 workers: "
+./bankdriver -t1 -w8  | grep Bank
+./bankdriver -t2 -w8  | grep Bank
+./bankdriver -t3 -w8  | grep Bank
+./bankdriver -t4 -w8  | grep Bank
+./bankdriver -t5 -w8  | grep Bank
+./bankdriver -t6 -w8  | grep Bank
+./bankdriver -t7 -w8  | grep Bank
+echo "16 workers: "
+./bankdriver -t1 -w16  | grep Bank
+./bankdriver -t2 -w16  | grep Bank
+./bankdriver -t3 -w16  | grep Bank
+./bankdriver -t4 -w16  | grep Bank
+./bankdriver -t5 -w16  | grep Bank
+./bankdriver -t6 -w16  | grep Bank
+./bankdriver -t7 -w16  | grep Bank
+
+echo "1 worker: balance  "
+./bankdriver -t1 -w1 -b | grep Bank
+./bankdriver -t2 -w1 -b | grep Bank
+./bankdriver -t3 -w1 -b | grep Bank
+./bankdriver -t4 -w1 -b | grep Bank
+./bankdriver -t5 -w1 -b | grep Bank
+./bankdriver -t6 -w1 -b | grep Bank
+./bankdriver -t7 -w1 -b | grep Bank
+echo "2 workers: balance"
+./bankdriver -t1 -w2 -b | grep Bank
+./bankdriver -t2 -w2 -b | grep Bank
+./bankdriver -t3 -w2 -b | grep Bank
+./bankdriver -t4 -w2 -b | grep Bank
+./bankdriver -t5 -w2 -b | grep Bank
+./bankdriver -t6 -w2 -b | grep Bank
+./bankdriver -t7 -w2 -b | grep Bank
+echo "4 workers: balance"
+./bankdriver -t1 -w4 -b | grep Bank
+./bankdriver -t2 -w4 -b | grep Bank
+./bankdriver -t3 -w4 -b | grep Bank
+./bankdriver -t4 -w4 -b | grep Bank
+./bankdriver -t5 -w4 -b | grep Bank
+./bankdriver -t6 -w4 -b | grep Bank
+./bankdriver -t7 -w4 -b | grep Bank
+echo "8 workers: balance "
+./bankdriver -t1 -w8 -b | grep Bank
+./bankdriver -t2 -w8 -b | grep Bank
+./bankdriver -t3 -w8 -b | grep Bank
+./bankdriver -t4 -w8 -b | grep Bank
+./bankdriver -t5 -w8 -b | grep Bank
+./bankdriver -t6 -w8 -b | grep Bank
+./bankdriver -t7 -w8 -b | grep Bank
+echo "16 workers: balance "
+./bankdriver -t1 -w16 -b | grep Bank
+./bankdriver -t2 -w16 -b | grep Bank
+./bankdriver -t3 -w16 -b | grep Bank
+./bankdriver -t4 -w16 -b | grep Bank
+./bankdriver -t5 -w16 -b | grep Bank
+./bankdriver -t6 -w16 -b | grep Bank
+./bankdriver -t7 -w16 -b | grep Bank
