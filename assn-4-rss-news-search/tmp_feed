@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>BBC News - Home</title>
+        <description>BBC News - Home</description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 20 Nov 2020 11:12:18 GMT</lastBuildDate>
+        <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>
+        <language>en-gb</language>
+        <ttl>15</ttl>
+        <item>
+            <title>US election 2020: Biden wins Georgia recount as Trump setbacks mount</title>
+            <description>As a Georgia audit confirms his victory, the president-elect blasts Donald Trump's "irresponsibility".</description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55006188</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55006188</guid>
+            <pubDate>Fri, 20 Nov 2020 09:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title>Covid: Pizza worker's 'lie' forced South Australia lockdown</title>
+            <description>South Australia went into lockdown because a man with Covid-19 misled health officials, police say.</description>
+            <link>https://www.bbc.co.uk/news/world-australia-55011790</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-55011790</guid>
+            <pubDate>Fri, 20 Nov 2020 07:54:33 GMT</pubDate>
+        </item>
+        <item>
+            <title>How England's test-and-trace system went wrong</title>
+            <description>BBC News spoke to key government figures, scientists and health officials involved from the start.</description>
+            <link>https://www.bbc.co.uk/news/health-55008133</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55008133</guid>
+            <pubDate>Fri, 20 Nov 2020 00:53:05 GMT</pubDate>
+        </item>
+        <item>
+            <title>Remembering Nuremberg 75 years on</title>
+            <description>Fergal Keane looks at their legacy and speaks to a Holocaust survivor, a prosecutor and the son of a defendant.</description>
+            <link>https://www.bbc.co.uk/news/world-55008987</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-55008987</guid>
+            <pubDate>Fri, 20 Nov 2020 00:28:31 GMT</pubDate>
+        </item>
+        <item>
+            <title>Berlin police hold 'cannibal' after bones found in park</title>
+            <description>A dead man's bones found in a Berlin park strongly suggest cannibalism, police say.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55015477</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55015477</guid>
+            <pubDate>Fri, 20 Nov 2020 10:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title>Tiger King star Jeff Lowe sued over 'inhumane treatment' of animals</title>
+            <description>Jeff Lowe took over the Oklahoma zoo formerly run by Joe Exotic and seen in the Netflix hit.</description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55014192</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55014192</guid>
+            <pubDate>Fri, 20 Nov 2020 10:43:44 GMT</pubDate>
+        </item>
+        <item>
+            <title>Pope Francis: Vatican investigates Brazilian model Instagram photo like</title>
+            <description>A Vatican spokesperson tells the Guardian newspaper the "like" did not come from the Holy See.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55011152</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55011152</guid>
+            <pubDate>Fri, 20 Nov 2020 01:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title>Covid-19: Serbian Orthodox Patriarch Irinej dies</title>
+            <description>Patriarch Irinej, 90, tested positive after attending a large funeral for Montenegro's top cleric.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55013132</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55013132</guid>
+            <pubDate>Fri, 20 Nov 2020 09:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title>Covid-19 carriers 'most infectious earlier on'</title>
+            <description>Greatest risk of passing the virus on is in the first few days of having symptoms, analysis suggests.</description>
+            <link>https://www.bbc.co.uk/news/health-55006313</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55006313</guid>
+            <pubDate>Fri, 20 Nov 2020 01:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title>Covid: Mexico passes 100,000 coronavirus deaths</title>
+            <description>The world's largest Spanish-speaking country also records more than one million infections.</description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-55011840</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-55011840</guid>
+            <pubDate>Fri, 20 Nov 2020 04:38:08 GMT</pubDate>
+        </item>
+        <item>
+            <title>Philippine island placed under 'state of calamity' after typhoon</title>
+            <description>President Rodrigo Duterte made the decision in order to speed up relief and rehabilitation efforts.</description>
+            <link>https://www.bbc.co.uk/news/world-asia-55009058</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55009058</guid>
+            <pubDate>Thu, 19 Nov 2020 17:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title>Luxury carmaker Maybach has high ambitions for China</title>
+            <description>The high-end brand owned by Daimler wants to tap into China's ambitious electric vehicle targets.</description>
+            <link>https://www.bbc.co.uk/news/business-55011945</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55011945</guid>
+            <pubDate>Fri, 20 Nov 2020 04:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title>Facebook's Instagram 'failed self-harm responsibilities'</title>
+            <description>The NSPCC says a fall in takedowns of graphic content put children at greater risk.</description>
+            <link>https://www.bbc.co.uk/news/technology-55004693</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-55004693</guid>
+            <pubDate>Fri, 20 Nov 2020 00:47:34 GMT</pubDate>
+        </item>
+        <item>
+            <title>Christian B: Madeleine McCann suspect's rape appeal rejected</title>
+            <description>The decision means he will remain in prison beyond January when a sentence for dug offences ends.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55015467</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55015467</guid>
+            <pubDate>Fri, 20 Nov 2020 10:41:49 GMT</pubDate>
+        </item>
+        <item>
+            <title>Queen and Prince Philip mark 73rd wedding anniversary with new photo</title>
+            <description>The royals are pictured looking at a homemade card from their great-grandchildren.</description>
+            <link>https://www.bbc.co.uk/news/uk-55007202</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55007202</guid>
+            <pubDate>Thu, 19 Nov 2020 22:29:47 GMT</pubDate>
+        </item>
+        <item>
+            <title>US election: How other incumbents left the White House after losing</title>
+            <description>Donald Trump joins a small group of US presidents who lost the election while in office.</description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55008827</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55008827</guid>
+            <pubDate>Fri, 20 Nov 2020 00:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title>Africa's week in pictures: 13 - 19 November 2020</title>
+            <description>A selection of the week's best photos from across the continent.</description>
+            <link>https://www.bbc.co.uk/news/world-africa-55002070</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55002070</guid>
+            <pubDate>Fri, 20 Nov 2020 02:03:46 GMT</pubDate>
+        </item>
+        <item>
+            <title>Swine flu: Woman, 26, still 'suffering' a decade after catching virus</title>
+            <description>Saffra Monteiro caught it as a girl and wants young people to take viruses, like Covid-19, seriously.</description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-54966521</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-54966521</guid>
+            <pubDate>Fri, 20 Nov 2020 00:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title>Weekly quiz: How did Rupert Grint set an Insta record?</title>
+            <description>How closely have you been paying attention to what's been going on during the past seven days?</description>
+            <link>https://www.bbc.co.uk/news/world-54993295</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54993295</guid>
+            <pubDate>Thu, 19 Nov 2020 17:04:37 GMT</pubDate>
+        </item>
+        <item>
+            <title>Covid: Lockdown ‘sci-fisolation’ movie goes viral</title>
+            <description>The spoof created by actors Brendan O’Rourke and Kevin Mains stars some of Hollywood’s big names.</description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-55005394</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-55005394</guid>
+            <pubDate>Fri, 20 Nov 2020 00:10:29 GMT</pubDate>
+        </item>
+        <item>
+            <title>US election 2020: How much did it cost and who paid for it?</title>
+            <description>The US elections in 2020 cost a record $14bn. BBC Reality Check takes a look at who paid this and how it was spent</description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54696386</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54696386</guid>
+            <pubDate>Thu, 19 Nov 2020 00:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title>Plastics an 'unfolding disaster' for US marine life</title>
+            <description>For the first time, advocates have tracked how animals in US waters are harmed by plastic pollution.</description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55006333</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55006333</guid>
+            <pubDate>Thu, 19 Nov 2020 17:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title>Coronavirus: Father Christmas’ guide to a Covid safe Christmas</title>
+            <description>Father Christmas explains how to have a Covid secure Christmas</description>
+            <link>https://www.bbc.co.uk/news/uk-54994584</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54994584</guid>
+            <pubDate>Thu, 19 Nov 2020 00:08:55 GMT</pubDate>
+        </item>
+        <item>
+            <title>Trumplomacy: Mike Pompeo eyes history on Israel swansong trip</title>
+            <description>The visit is as much about putting pressure on Iran as it is about shoring up the Israeli right.</description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-55011835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-55011835</guid>
+            <pubDate>Fri, 20 Nov 2020 02:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title>The Caribbean islands poisoned by a carcinogenic pesticide</title>
+            <description>On Martinique and Guadeloupe a pesticide has poisoned the soil and water and caused many cases of prostate cancer.</description>
+            <link>https://www.bbc.co.uk/news/stories-54992051</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-54992051</guid>
+            <pubDate>Fri, 20 Nov 2020 00:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title>The judge who stood up to Pakistan's military</title>
+            <description>Justice Waqar Ahmad Seth was a rare judge in Pakistan who challenged the military.</description>
+            <link>https://www.bbc.co.uk/news/world-asia-54961079</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54961079</guid>
+            <pubDate>Fri, 20 Nov 2020 00:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bollywood-backed Indian ballet prodigy finds feet in London</title>
+            <description>Kamal Singh is training at the English National Ballet School after raising the fees online.</description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54854273</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54854273</guid>
+            <pubDate>Fri, 20 Nov 2020 00:59:16 GMT</pubDate>
+        </item>
+        <item>
+            <title>Wands revive memories of the smart home dream</title>
+            <description>Lights, heating and fridges were all supposed to be internet connected, but it never really happened. Why?</description>
+            <link>https://www.bbc.co.uk/news/business-54718750</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54718750</guid>
+            <pubDate>Fri, 20 Nov 2020 01:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title>Melania Trump's hometown in Slovenia hopes its fame will last</title>
+            <description>For four years this Slovenian town has enjoyed its link to the First Lady but an era is about to end.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-55004553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55004553</guid>
+            <pubDate>Fri, 20 Nov 2020 01:20:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>Ethiopia's Tigray crisis: Fact-checking misleading images</title>
+            <description>Manipulated and false images with no relation to the crisis in Ethiopia are being shared online.</description>
+            <link>https://www.bbc.co.uk/news/world-africa-54985545</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54985545</guid>
+            <pubDate>Fri, 20 Nov 2020 02:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>Climate change: Can sending fewer emails really save the planet?</title>
+            <description>UK officials are reportedly considering asking us to stop sending "thanks" emails - but why?</description>
+            <link>https://www.bbc.co.uk/news/technology-55002423</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-55002423</guid>
+            <pubDate>Thu, 19 Nov 2020 12:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>The human cost of Australia's illegal 'robo' hunt for welfare cheats</title>
+            <description>The "Robodebt" scheme aimed to find welfare cheats but wrongly accused hundreds of thousands of people.</description>
+            <link>https://www.bbc.co.uk/news/world-australia-54970253</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-54970253</guid>
+            <pubDate>Wed, 18 Nov 2020 16:48:20 GMT</pubDate>
+        </item>
+        <item>
+            <title>Keith Richards: 'I'll celebrate the Stones' 60th anniversary in a wheelchair'</title>
+            <description>Keith Richards on the US election, being punched by Chuck Berry and the Rolling Stones' future.</description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54985958</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54985958</guid>
+            <pubDate>Thu, 19 Nov 2020 01:20:20 GMT</pubDate>
+        </item>
+        <item>
+            <title>Coronavirus: The realities of schooling in rural Brazil</title>
+            <description>The pandemic has thrown up unique challenges for teachers and students in Latin America.</description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-54990593</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-54990593</guid>
+            <pubDate>Thu, 19 Nov 2020 02:14:36 GMT</pubDate>
+        </item>
+        <item>
+            <title>Pike River: The 29 coal miners who never came home</title>
+            <description>It's been 10 years since New Zealand's Pike River mine disaster, and families of victims still feel raw.</description>
+            <link>https://www.bbc.co.uk/news/world-asia-54956219</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54956219</guid>
+            <pubDate>Thu, 19 Nov 2020 00:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title>EU faces challenge from three states to Covid budget</title>
+            <description>EU leaders will meet via video, with Hungary and Poland objecting to funds being tied to rule of law.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-54985621</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54985621</guid>
+            <pubDate>Thu, 19 Nov 2020 00:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title>Have female CEOs coped better with Covid than men?</title>
+            <description>Have female bosses coped with the pandemic better than their male counterparts?</description>
+            <link>https://www.bbc.co.uk/news/business-54974132</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54974132</guid>
+            <pubDate>Thu, 19 Nov 2020 00:17:35 GMT</pubDate>
+        </item>
+        <item>
+            <title>Brexit: What's happening and what comes next?</title>
+            <description>Covid-19 and the US election have dominated headlines, but Brexit crunch time is approaching fast.</description>
+            <link>https://www.bbc.co.uk/news/world-europe-54959056</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54959056</guid>
+            <pubDate>Wed, 18 Nov 2020 01:51:46 GMT</pubDate>
+        </item>
+        <item>
+            <title>The loyalty oath keeping Rwandans abroad in check</title>
+            <description>Leaked footage fuels allegations of an aggressive crackdown on Rwandan "critics" in the diaspora.</description>
+            <link>https://www.bbc.co.uk/news/world-africa-54801979</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54801979</guid>
+            <pubDate>Wed, 18 Nov 2020 01:05:32 GMT</pubDate>
+        </item>
+        <item>
+            <title>ATP Finals 2020: Rafael Nadal beats Stefanos Tsitsipas to make last four</title>
+            <description>Rafael Nadal reaches the last four of the ATP Finals by beating 2019 champion Stefanos Tsitsipas in three sets.</description>
+            <link>https://www.bbc.co.uk/sport/tennis/54968633</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/54968633</guid>
+            <pubDate>Fri, 20 Nov 2020 00:03:37 GMT</pubDate>
+        </item>
+        <item>
+            <title>Pep Guardiola: Manchester City boss was 'not close at all' to leaving, says Guillem Balague</title>
+            <description>Manchester City boss Pep Guardiola was "not close at all" to leaving the Premier League club, says BBC Radio 5 Live's Guillem Balague.</description>
+            <link>https://www.bbc.co.uk/sport/football/55009781</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55009781</guid>
+            <pubDate>Thu, 19 Nov 2020 20:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title>Tiger Woods to line up with 11-year-old son Charlie in Orlando event</title>
+            <description>Tiger Woods will be joined by 11-year-old son Charlie in the PNC Championship team event at the Ritz-Carlton Golf Club in Orlando from 17-20 December.</description>
+            <link>https://www.bbc.co.uk/sport/golf/55007231</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/55007231</guid>
+            <pubDate>Thu, 19 Nov 2020 18:33:31 GMT</pubDate>
+        </item>
+        <item>
+            <title>Hamilton on meditation, chasing perfection and showing his human side</title>
+            <description>This may have been the year Lewis Hamilton became a true great, but it's issues in the wider world that drive him ever further.</description>
+            <link>https://www.bbc.co.uk/sport/formula1/55010313</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/55010313</guid>
+            <pubDate>Fri, 20 Nov 2020 06:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title>Man City determined to sign Messi - Friday's gossip column</title>
+            <description>Manchester City renew Lionel Messi interest, Everton want Daniel James, Manchester United join race for Eduardo Camavinga, plus more.</description>
+            <link>https://www.bbc.co.uk/sport/55008864</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/55008864</guid>
+            <pubDate>Fri, 20 Nov 2020 06:55:02 GMT</pubDate>
+        </item>
+        <item>
+            <title>Youssoufa Moukoko: Meet Borussia Dortmund's 16-year-old 'wunderkind'</title>
+            <description>Borussia Dortmund's 16-year-old 'wunderkind' Youssoufa Moukoko could become the Bundesliga and Champions League's youngest player in the coming days.</description>
+            <link>https://www.bbc.co.uk/sport/football/55002923</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55002923</guid>
+            <pubDate>Fri, 20 Nov 2020 06:10:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
